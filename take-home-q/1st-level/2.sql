@@ -1,0 +1,1 @@
+SELECT name FROM people WHERE (2025-birth) IS NOT NULL ORDER BY birth ASC LIMIT 10;
