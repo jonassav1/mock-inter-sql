@@ -1,0 +1,2 @@
+--Pagination (LIMIT, OFFSET)
+--Demonstrating which queries can be used to address generic web app features like pagination or search

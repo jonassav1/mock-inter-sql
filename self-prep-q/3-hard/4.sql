@@ -1,0 +1,1 @@
+--Explaining the difference between LEFT vs. RIGHT, INNER vs. OUTER JOIN
