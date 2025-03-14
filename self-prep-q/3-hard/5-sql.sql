@@ -1,0 +1,1 @@
+SELECT title FROM movies WHERE year = 2024 LIMIT 5;
